@@ -42,8 +42,6 @@ Agile (Scrum), OpenAPI Swagger, Jira & Confluence, ServiceNow, SOX Compliance, A
 ## 📝 Wishlist
 *Tools, technologies, stacks that I am activley learning or want to learn about.*
 
-- [ ] PERN Stack (PostgreSQL, Express.js, React.js, Node.js) 
-- [ ] Ruby on Rails
-- [ ] Serverless Framework
+PERN Stack (PostgreSQL-Express.js-React.js-Node.js), Ruby on Rails, Serverless Framework
 
 </div>
