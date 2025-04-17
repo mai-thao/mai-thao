@@ -3,7 +3,7 @@
 # Hello! 👋 I'm Mai
 ### I am a Software Engineer.
 
-This is my portfolio where I store my personal coding projects.
+This is my portfolio where I store my personal coding projects and scripts.
 
 ## 💬 About Me
 I am a detail-oriented backend software engineer with over 4 years of experience building scalable microservices, optimizing system performances, and delivering high-impact solutions. I am skilled in designing robust APIs, automating CI/CD pipelines, and collaborating cross-functionally to ensure reliability and efficiency. It's great to virtually meet!
@@ -28,7 +28,7 @@ Java, Kotlin, Python, SQL, JavaScript
 Spring Boot, Micronaut, Android
 
 #### Cloud
-Azure, Docker, Kubernetes
+AWS, Azure, Docker, Kubernetes
 
 #### Data
 Kafka, InfluxDB, MongoDB, PostgreSQL, Redis
