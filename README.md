@@ -36,7 +36,7 @@ Kafka, InfluxDB, MongoDB, PostgreSQL, Redis
 #### DevOps
 Bash Scripting, Drone CI/CD, Git/GitHub, Grafana, ELK Stack, Gradle
 
-#### Concepts
+#### Others
 Agile (Scrum), OpenAPI Swagger, Jira & Confluence, ServiceNow, SOX Compliance, API (RESTful/GraphQL), CSS/HTML
 
 </div>
