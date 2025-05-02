@@ -6,9 +6,11 @@
 This is my portfolio where I store my personal coding projects and scripts.
 
 ## 💬 About Me
-I am a detail-oriented backend software engineer with over 4 years of experience building scalable microservices, optimizing system performances, and delivering high-impact solutions. I am skilled in designing robust APIs, automating CI/CD pipelines, and collaborating cross-functionally to ensure reliability and efficiency. It's great to virtually meet!
+I am a detail-oriented backend software engineer with over 4 years of experience building scalable microservices, optimizing system performances, and delivering high-impact solutions. 
 
-I am actively seeking full-time opportunities and am eager to connect with like-minded professionals to collaborate with, bringing not only my technical expertise but also a spirit of curiosity and innovation!
+I am skilled in designing robust APIs, automating CI/CD pipelines, and collaborating cross-functionally to ensure reliability and efficiency. It's great to virtually meet!
+
+I am seeking full-time opportunities and am eager to connect with like-minded professionals to collaborate with, bringing not only my technical expertise but also a spirit of curiosity and innovation!
 
 ## 📫 Contact Info
 *Let's connect on LinkedIn!*
@@ -19,24 +21,24 @@ I am actively seeking full-time opportunities and am eager to connect with like-
 *A highlight of some technologies that I have experience with.*
 
 #### Base
-IntelliJ, MacOS, Windows, VS Code
+IntelliJ, MacOS, VS Code, Windows
 
 #### Languages
-Java, Kotlin, Python, SQL, JavaScript
+Java, JavaScript, Kotlin, Python, SQL
 
 #### Frameworks
-Spring Boot, Micronaut, Android
+Android, Spring Boot, Micronaut
 
 #### Cloud
 AWS, Azure, Docker, Kubernetes
 
 #### Data
-Kafka, InfluxDB, MongoDB, PostgreSQL, Redis
+InfluxDB, Kafka, MongoDB, PostgreSQL, Redis
 
 #### DevOps
-Bash Scripting, Drone CI/CD, Git/GitHub, Grafana, ELK Stack, Gradle
+Bash Scripting, Drone CI/CD, Elasticsearch/Logstash/Kibana (ELK) Stack, Git/GitHub, Gradle, Grafana
 
 #### Others
-Agile (Scrum), OpenAPI Swagger, Jira & Confluence, ServiceNow, SOX Compliance, API (RESTful/GraphQL), CSS/HTML
+Agile (Scrum), API (RESTful/GraphQL), CSS/HTML, Jira & Confluence, Mermaid Diagramming, OpenAPI Swagger, ServiceNow, SOX Compliance
 
 </div>
