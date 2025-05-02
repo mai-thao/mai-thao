@@ -20,25 +20,69 @@ I am seeking full-time opportunities and am eager to connect with like-minded pr
 ## ⚙️ Technologies
 *A highlight of some technologies that I have experience with.*
 
-#### Base
-IntelliJ, MacOS, VS Code, Windows
+<table>
+<tr><td>
 
-#### Languages
-Java, JavaScript, Kotlin, Python, SQL
+| Base     |
+|----------|
+| IntelliJ |
+| MacOS    |
+| VS Code  |
+| Windows  |
 
-#### Frameworks
-Android, Spring Boot, Micronaut
+</td><td>
 
-#### Cloud
-AWS, Azure, Docker, Kubernetes
+| Languages  |
+|------------|
+| Java       |
+| JavaScript |
+| Kotlin     |
+| Python     |
+| SQL        |
 
-#### Data
-InfluxDB, Kafka, MongoDB, PostgreSQL, Redis
+</td><td>
 
-#### DevOps
-Bash Scripting, Drone CI/CD, Elasticsearch/Logstash/Kibana (ELK) Stack, Git/GitHub, Gradle, Grafana
+| Frameworks  |
+|-------------|
+| Android     |
+| Spring Boot |
+| Micronaut   |
 
-#### Others
-Agile (Scrum), API (RESTful/GraphQL), CSS/HTML, Jira & Confluence, Mermaid Diagramming, OpenAPI Swagger, ServiceNow, SOX Compliance
+
+</td></tr>
+
+<tr><td>
+
+| Cloud      |
+|------------|
+| AWS        |
+| Azure      |
+| Docker     |
+| Kubernetes |
+
+</td><td>
+
+| Data       |
+|------------|
+| InfluxDB   |
+| Kafka      |
+| MongoDB    |
+| PostgreSQL |
+| Redis      |
+
+</td><td>
+
+| Tools                 |
+|-----------------------|
+| Agile Scrum           |
+| API (RESTful/GraphQL) |
+| CSS/HTML              |
+| Jira/Confluence       |
+| OpenAPI Swagger       |
+| ServiceNow            |
+| SOX Compliance        |
+
+</d></tr>
+</table>
 
 </div>
