@@ -3,14 +3,14 @@
 # Hello! 👋 I'm Mai
 ### I am a Software Engineer.
 
-This is my portfolio where I store my personal coding projects and scripts.
+This is my portfolio where I [version-control](https://about.gitlab.com/topics/version-control/) and share my personal coding projects and scripts.
 
 ## 💬 About Me
 I am a detail-oriented backend software engineer with 4 years of experience building scalable microservices, optimizing system performances, and delivering high-impact solutions.
 
 I am skilled in designing robust APIs, automating CI/CD pipelines, and collaborating cross-functionally to ensure reliability and efficiency.
 
-It's great to virtually meet! I am seeking opportunities to connect with like-minded professionals to collaborate with, bringing not only my technical expertise but also a spirit of curiosity and innovation.
+It's great to virtually meet! I am seeking opportunities to connect with like-minded professionals to collaborate with, bringing not only my technical expertise but also a spirit of curiosity and innovation!
 
 ## 📫 Contact Info
 *Let's connect on LinkedIn!*
@@ -18,7 +18,7 @@ It's great to virtually meet! I am seeking opportunities to connect with like-mi
 <a href="https://www.linkedin.com/in/mai-thao"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 
 ## ⚙️ Technologies
-*A highlight of some technologies that I have experience with.*
+*Technologies is forever evolving! But here is a highlight of some technologies that I am experienced in.*
 
 <table>
 <tr><td>
