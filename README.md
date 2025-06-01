@@ -85,4 +85,7 @@ It's great to virtually meet! I am seeking opportunities to connect with like-mi
 </d></tr>
 </table>
 
+### Badges
+![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/3df9e005-8f0d-478b-813c-a9227464ec77)
+
 </div>
