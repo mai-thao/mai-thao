@@ -88,4 +88,5 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 ### Badges
 ![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/3df9e005-8f0d-478b-813c-a9227464ec77)
 
+_Psst... are you also studing for the AWS CCP Exam? See my [Quizlet](https://quizlet.com/user/m-thao/folders/aws-cloud-practitioner-prep?i=6iud7s&x=1xqt) for how I prepped!_
 </div>
