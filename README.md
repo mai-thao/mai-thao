@@ -48,7 +48,6 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 | Spring Boot |
 | Micronaut   |
 
-
 </td></tr>
 
 <tr><td>
@@ -74,13 +73,13 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 
 | Tools                 |
 |-----------------------|
-| Agile Scrum           |
 | API (RESTful/GraphQL) |
 | CSS/HTML              |
-| Jira/Confluence       |
-| OpenAPI Swagger       |
+| Elastic (ELK) Stack   |
+| Git/GitHub            |
+| Gradle                |
+| Grafana               |
 | ServiceNow            |
-| SOX Compliance        |
 
 </d></tr>
 </table>
