@@ -1,6 +1,6 @@
 ﻿<div align="center">
   
-# Hello! 👋 I'm Mai
+# Hello! 👋 I'm Mai (my)
 ### I am a Software Engineer.
 
 This is my portfolio where I [version-control](https://about.gitlab.com/topics/version-control/) and share my personal coding projects and scripts.
