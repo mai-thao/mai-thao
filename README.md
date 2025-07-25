@@ -42,11 +42,12 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 
 </td><td>
 
-| Frameworks  |
-|-------------|
-| Android     |
-| Spring Boot |
-| Micronaut   |
+| Frameworks        |
+|-------------------|
+| Android           |
+| Express/node.js   |
+| Micronaut         |
+| Spring Boot       |
 
 </td></tr>
 
@@ -58,6 +59,7 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 | Azure      |
 | Docker     |
 | Kubernetes |
+| TAP        |
 
 </td><td>
 
@@ -75,11 +77,13 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 |-----------------------|
 | API (RESTful/GraphQL) |
 | CSS/HTML              |
+| Drone CI/CD           |
 | Elastic (ELK) Stack   |
 | Git/GitHub            |
 | Gradle                |
 | Grafana               |
 | ServiceNow            |
+| Vela                  |
 
 </d></tr>
 </table>
