@@ -42,12 +42,12 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 
 </td><td>
 
-| Frameworks        |
-|-------------------|
-| Android           |
-| Express/node.js   |
-| Micronaut         |
-| Spring Boot       |
+| Frameworks         |
+|--------------------|
+| Android            |
+| Express.js/node.js |
+| Micronaut          |
+| Spring Boot        |
 
 </td></tr>
 
@@ -80,10 +80,9 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 | Drone CI/CD           |
 | Elastic (ELK) Stack   |
 | Git/GitHub            |
-| Gradle                |
 | Grafana               |
 | ServiceNow            |
-| Vela                  |
+| Vela CI/CD            |
 
 </d></tr>
 </table>
