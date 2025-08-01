@@ -6,11 +6,11 @@
 This is my portfolio where I [version-control](https://about.gitlab.com/topics/version-control/) and share my personal coding projects and scripts.
 
 ## 💬 About Me
-Nice to virtually meet! I am a detail-oriented backend software engineer with 4 years of experience building scalable microservices, optimizing system performances, and delivering high-impact solutions.
+Nice to virtually meet! I am a detail-oriented fullstack software engineer with over 3 years of experience building scalable microservices, optimizing system infrastructures, and delivering high-impact solutions.
 
 I am skilled in designing and implementing robust APIs, automating CI/CD pipelines, and collaborating cross-functionally to deliver reliable and efficient distributed systems.
 
-I am seeking opportunities to connect with like-minded professionals to collaborate with, bringing not only my technical expertise but also a spirit of curiosity and innovation!
+I am seeking opportunities to connect and collaborate with like-minded professionals, bringing not only my technical expertise but also a spirit of curiosity and innovation!
 
 ## 📫 Contact Info
 *Let's connect on LinkedIn!*
@@ -26,6 +26,7 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 | Base     |
 |----------|
 | IntelliJ |
+| Linux    |
 | MacOS    |
 | VS Code  |
 | Windows  |
@@ -81,6 +82,7 @@ I am seeking opportunities to connect with like-minded professionals to collabor
 | Elastic (ELK) Stack   |
 | Git/GitHub            |
 | Grafana               |
+| Hadoop                |
 | ServiceNow            |
 | Vela CI/CD            |
 
