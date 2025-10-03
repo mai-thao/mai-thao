@@ -12,6 +12,9 @@ I am skilled in designing and implementing robust APIs, automating CI/CD pipelin
 
 I am seeking opportunities to connect and collaborate with like-minded professionals, bringing not only my technical expertise but also a spirit of curiosity and innovation!
 
+#### 🌱 Fun Fact
+I am software engineer by trade and a proud plant nurturer at heart. Ask me about my 15 different species of indoor plants!
+
 ## 📫 Contact Info
 *Let's connect on LinkedIn!*
 
@@ -92,4 +95,5 @@ I am seeking opportunities to connect and collaborate with like-minded professio
 
 _Psst... are you also studing for the AWS CCP Exam? See my [Quizlet](https://quizlet.com/user/m-thao/folders/aws-cloud-practitioner-prep?i=6iud7s&x=1xqt) for how I prepped!_
 </div>
+
 
