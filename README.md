@@ -6,7 +6,7 @@
 This is my portfolio where I [version-control](https://about.gitlab.com/topics/version-control/) and share my personal coding projects and scripts.
 
 ## 💬 About Me
-Nice to virtually meet! I am a detail-oriented fullstack software engineer with over 3 years of experience building scalable microservices, optimizing system infrastructures, and delivering high-impact solutions.
+Nice to virtually meet! I am a detail-oriented software engineer with over 3 years of experience building scalable microservices, optimizing system infrastructures, and delivering secure solutions.
 
 I am skilled in designing and implementing robust APIs, automating CI/CD pipelines, and collaborating cross-functionally to deliver reliable and efficient distributed systems.
 
@@ -46,7 +46,7 @@ I am seeking opportunities to connect and collaborate with like-minded professio
 | Frameworks         |
 |--------------------|
 | Android            |
-| Express.js/node.js |
+| Express.js/Node.js |
 | Micronaut          |
 | Spring Boot        |
 
@@ -60,7 +60,6 @@ I am seeking opportunities to connect and collaborate with like-minded professio
 | Azure      |
 | Docker     |
 | Kubernetes |
-| TAP        |
 
 </td><td>
 
@@ -77,14 +76,13 @@ I am seeking opportunities to connect and collaborate with like-minded professio
 | Tools                 |
 |-----------------------|
 | API (RESTful/GraphQL) |
+| CI/CD                 |
 | CSS/HTML              |
-| Drone CI/CD           |
 | Elastic (ELK) Stack   |
 | Git/GitHub            |
 | Grafana               |
 | Hadoop                |
 | ServiceNow            |
-| Vela CI/CD            |
 
 </d></tr>
 </table>
@@ -94,3 +92,4 @@ I am seeking opportunities to connect and collaborate with like-minded professio
 
 _Psst... are you also studing for the AWS CCP Exam? See my [Quizlet](https://quizlet.com/user/m-thao/folders/aws-cloud-practitioner-prep?i=6iud7s&x=1xqt) for how I prepped!_
 </div>
+
